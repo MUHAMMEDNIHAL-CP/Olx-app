@@ -35,7 +35,6 @@ function App() {
           <Create />
         </Route>
       </Router>
-      <h1>Hello</h1>
     </div>
   );
 }
